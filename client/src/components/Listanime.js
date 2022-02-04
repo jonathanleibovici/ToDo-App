@@ -65,7 +65,7 @@ const Listanime = () => {
 									className="btn btn-danger"
 									onClick={() => deleteAnime(anime.anime_id)}
 								>
-									delete
+									Delete
 								</button>
 							</td>
 						</tr>
